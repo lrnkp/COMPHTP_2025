@@ -19,7 +19,7 @@ GenomicFeatures
 ggplot2
 Pheatmap
 
-input files: Comp_Project.zip contains all the files and the folder structure necessary for running*
+input files: The .zips contains all the files and the folder structure necessary for running*
 *see instructions below, filepath must align with your system
 
 Citation for input files:
